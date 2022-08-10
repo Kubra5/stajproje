@@ -6,4 +6,4 @@ def query(domain):
     for server in answer :
         return (server.to_text())
 
-#query("youtube.com")
+
